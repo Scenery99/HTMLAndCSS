@@ -1,0 +1,125 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+}
+
+.all {
+    background-color:  rgb(101, 0, 0);
+    padding: 40px 0 100px 0; 
+}
+
+.one {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.logo {
+    font-size: 16px;
+    color: bisque;
+    line-height: 0.5; 
+}
+
+.link a {
+    text-decoration: none;
+    color: bisque;
+    padding: 30px;
+    line-height: 4;
+}
+
+.two {
+    display: flex;
+    justify-content: space-around;
+    color: bisque;
+    align-items: center;
+    padding: 30px;
+}
+
+.pov {
+    width: 300px;
+}
+
+.registration {
+    background-color: rgb(70, 0, 0);
+    color: bisque;
+    border-radius: 20%;
+}
+
+.information {
+    background-color: white;
+    padding: 40px 0 100px 0;
+}
+
+.plus {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.facts {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+  
+.fact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    text-align: center;
+    padding: 30px;
+}
+  
+.images {
+    width: 200px;
+    height: auto;
+    margin: 16px;
+}
+  
+.signature {
+    font-size: 16px;
+    color: black;
+}
+
+.three {
+    background-color: hsl(11, 96%, 67%);
+    color: rgb(255, 234, 196);
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.four {
+    background-color: white;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.time {
+    background-color: rgb(101, 0, 0);
+    color: bisque;
+    width: 1200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+}
+
+.reg {
+    background-color: rgb(70, 0, 0);
+    color: bisque;
+    border-radius: 20%;
+}
+
+.five {
+    background-color: rgb(101, 0, 0);
+    color: bisque;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
